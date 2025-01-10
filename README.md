@@ -18,3 +18,7 @@ O script realiza as seguintes operações:
 - Processamento da resposta para encontrar o servidor WHOIS de referência.
 - Conexão com o servidor WHOIS de referência para coletar informações adicionais.
 - Exibição das informações coletadas.
+
+> Como utilizar
+
+- ..:$ python3 searchTg.py exemplo.com.br
