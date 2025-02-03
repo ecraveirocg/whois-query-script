@@ -21,4 +21,4 @@ O script realiza as seguintes operações:
 
 > Como utilizar
 
-- ..:$ python3 searchTg.py exemplo.com.br
+- ..:$ python3 whois-query-script.py exemplo.com.br
